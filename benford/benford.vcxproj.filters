@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\Hung\Downloads\benford.cpp">
+    <ClCompile Include="Benford.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
