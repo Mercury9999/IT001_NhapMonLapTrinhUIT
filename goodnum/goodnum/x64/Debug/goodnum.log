@@ -1,0 +1,3 @@
+﻿  Goodnum.cpp
+D:\dev\nhapmonlaptrinh\goodnum\goodnum\Goodnum.cpp(10,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  goodnum.vcxproj -> D:\dev\nhapmonlaptrinh\goodnum\x64\Debug\goodnum.exe

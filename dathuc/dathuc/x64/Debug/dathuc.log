@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\dev\nhapmonlaptrinh\dathuc\Source.cpp(24,16): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\dev\nhapmonlaptrinh\dathuc\Source.cpp(68,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  dathuc.vcxproj -> D:\dev\nhapmonlaptrinh\dathuc\x64\Debug\dathuc.exe
